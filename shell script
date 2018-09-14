@@ -1,0 +1,8 @@
+pwd  - present working directory
+ls  - (list of file)
+ls -ltr     ( complete detail of file present in pwd )
+mkdir start - (make directory start)
+echo "hello world" > welcome.txt      (copy the content hello world in welcome.txt)
+cat welcome.txt  (showing the content of file )
+cp welcome.txt welcome2.txt    ( copy one file to another)
+rm -rf welcome2.txt   (removing the file)
